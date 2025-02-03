@@ -1,0 +1,1 @@
+Welcome to the Cake Shop Website project! This is a responsive and interactive website built to showcase the offerings of a cake shop. The project was created using HTML, CSS, and JavaScript, and it aims to provide users with an engaging and seamless experience when browsing cakes and related services.
